@@ -2,8 +2,7 @@
 
 I'm a web developer with a passion for creating beautiful and functional web applications. Currently, I'm exploring new technologies and working on exciting projects.
 
-- 🔭 I’m currently working on [GS-Mail-Serve](https://github.com/galibmia/gs-mails-server)
-- 🌱 I’m currently learning Advanced React and TypeScript
+- 🌱 I’m currently learning Advanced React, Next and TypeScript
 - 👯 I’m looking to collaborate on open-source web development projects
 - 🤔 I’m looking for help with integrating complex APIs
 - 💬 Ask me about Node.js, React.js, and full-stack development
