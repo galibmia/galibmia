@@ -7,7 +7,7 @@ I'm a web developer with a passion for creating beautiful and functional web app
 - 🤔 I’m looking for help with integrating complex APIs
 - 💬 Ask me about Node.js, React.js, and full-stack development
 - 📫 How to reach me: [engr.galibmia@gmail.com](mailto:engr.galibmia@gmail.com)
-- ⚡ Fun fact: I love hiking and exploring new places!
+- ⚡ Fun fact: I love listening music and exploring new places!
 
 ---
 
