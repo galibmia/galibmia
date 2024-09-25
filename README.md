@@ -23,6 +23,9 @@ Team Work, Leadership, Problem Solving, Communication
 
 ## 🖥️ Projects
 
+### [Bistro Boss - Restaurant management system](https://github.com/galibmia/bistro-boss-client)
+A full-stack restaurant management application built with React and Vite, designed to streamline restaurant operations for both administrators and users. The system offers a robust admin dashboard for managing menu items, users, and bookings, while providing a seamless user experience for ordering, payments, and reservations.
+
 ### [GS-Mail-Serve](https://github.com/galibmia/gs-mails-server)
 A server-side application for managing emails efficiently using Node.js and Express.js. Features include email sending, receiving, and storage with robust security measures.
 
