@@ -7,14 +7,14 @@ I'm a web developer with a passion for creating beautiful and functional web app
 - 🤔 I’m looking for help with integrating complex APIs
 - 💬 Ask me about Node.js, React.js, and full-stack development
 - 📫 How to reach me: [engr.galibmia@gmail.com](mailto:engr.galibmia@gmail.com)
-- ⚡ Fun fact: I love listening music and exploring new places!
+- ⚡ Fun fact: I love listening to music and exploring new places!
 
 ---
 
 ## 🚀 Skills
 
 **Languages & Tools:**  
-JavaScript, HTML5, CSS3, Node.js, Express.js, React.js, TailwindCSS, MongoDB
+JavaScript, HTML5, CSS3, Node.js, Express.js, React.js, Next.js, TailwindCSS, MongoDB
 
 **Interpersonal:**  
 Team Work, Leadership, Problem Solving, Communication
